@@ -1,7 +1,6 @@
-##Project44##
+#Project44
+
 **What is Project44?**
-
-
 A blog app that allows users to sign up and create posts/comments
 When user signs up the user is an admin
 Upon initialzed sign up User is gifted with password encryption for extra security
