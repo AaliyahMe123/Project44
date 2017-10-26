@@ -1,4 +1,6 @@
 #Project44
+![screen shot 2017-10-26 at 9 59 01 am](https://user-images.githubusercontent.com/27376967/32057469-58b4fa1a-ba35-11e7-9cfd-912a8a94bdd6.png)
+
 
 **What is Project44?**
 A blog app that allows users to sign up and create posts/comments
